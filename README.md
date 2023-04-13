@@ -20,8 +20,8 @@
   ## Usage
   1. Create database using MySQL GUI or using command-line.  2. Insert "seed" using MySQL GUI or using command-line. 3. In the open integrated terminal run: mysql -u root -p  and source ./db/schema.sql. 5. run exit 6. run npm start. 7. Test in Insomnia
   
-  ## Tests
-  no test
+  
+  
   
   ## Contributing
   all contributors are welcome
